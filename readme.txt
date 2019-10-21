@@ -7,4 +7,4 @@ Git differnce
 help and do it in
 
 add one word
-
+reating a ew branch is quick and simple
