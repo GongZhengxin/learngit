@@ -4,6 +4,8 @@ Git is distributed and free
 let us learn it to manage the version。
 Git tracks the change
 Git differnce
-busdi
+help and do it in
 
-creating a new branch is quick & simple
+add one word
+reating a ew branch is quick and simple
+
